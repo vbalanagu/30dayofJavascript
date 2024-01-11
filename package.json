@@ -1,0 +1,23 @@
+{
+  "name": "30dayofjavascript",
+  "version": "1.0.0",
+  "description": "Javascript Leet code challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vbalanagu/30dayofJavascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vbalanagu/30dayofJavascript/issues"
+  },
+  "homepage": "https://github.com/vbalanagu/30dayofJavascript#readme",
+  "dependencies": {
+    "dayjs": "^1.11.10"
+  }
+}
